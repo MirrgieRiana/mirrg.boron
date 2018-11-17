@@ -1,0 +1,6 @@
+[submodule "projects/mirrg.boron.template"]
+	path = projects/mirrg.boron.template
+	url = https://github.com/MirrgieRiana/mirrg.boron.template.git
+[submodule "projects/mirrg.boron.util"]
+	path = projects/mirrg.boron.util
+	url = https://github.com/MirrgieRiana/mirrg.boron.util.git
