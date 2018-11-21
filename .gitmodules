@@ -4,3 +4,6 @@
 [submodule "projects/mirrg.boron.util"]
 	path = projects/mirrg.boron.util
 	url = https://github.com/MirrgieRiana/mirrg.boron.util.git
+[submodule "projects/mirrg.boron.swing"]
+	path = projects/mirrg.boron.swing
+	url = https://github.com/MirrgieRiana/mirrg.boron.swing.git
