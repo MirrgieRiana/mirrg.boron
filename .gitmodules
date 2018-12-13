@@ -7,3 +7,6 @@
 [submodule "projects/mirrg.boron.swing"]
 	path = projects/mirrg.boron.swing
 	url = https://github.com/MirrgieRiana/mirrg.boron.swing.git
+[submodule "projects/mirrg.boron.cgi"]
+	path = projects/mirrg.boron.cgi
+	url = https://github.com/MirrgieRiana/mirrg.boron.cgi.git
