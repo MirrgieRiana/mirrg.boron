@@ -10,3 +10,6 @@
 [submodule "projects/mirrg.boron.cgi"]
 	path = projects/mirrg.boron.cgi
 	url = https://github.com/MirrgieRiana/mirrg.boron.cgi.git
+[submodule "projects/mirrg.boron.peg"]
+	path = projects/mirrg.boron.peg
+	url = https://github.com/MirrgieRiana/mirrg.boron.peg.git
